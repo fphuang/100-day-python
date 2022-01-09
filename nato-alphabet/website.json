@@ -1,0 +1,18 @@
+{
+    "website#1": {
+        "email": "huang.fp@gmail.cn",
+        "password": "fxh-password"
+    },
+    "website#2": {
+        "email": "huang.fp@outlook.com",
+        "password": "fxh-password"
+    },
+    "website": {
+        "email": "huang.fp@gmail.cn",
+        "password": "fxh-password"
+    },
+    "website#4": {
+        "email": "huang.fp@gmail.cn",
+        "password": "fxh-password"
+    }
+}

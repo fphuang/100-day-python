@@ -1,0 +1,12 @@
+advanced arguments:
+    def my_func(a=3, b=4, c=5):
+        pass
+
+positional Arguments:
+    def my_func(*args):
+        for n in args:
+            print(n)
+
+keyword Arguments
+    def my_func(**args):
+        pass
